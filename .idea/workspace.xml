@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9fb7db8-fce9-4268-8ca5-8101a86e2b83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bdg1CeXb4emiih2tIYTL2Swc1E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/exercios/Mundo 3/13-Módulos e Pacotes/ex112" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="sofrendo" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="sofrendo" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\T-Gamer\PycharmProjects\sofrendo\exercios\Mundo 3\13-Módulos e Pacotes\ex112" />
+      <recent name="C:\Users\T-Gamer\PycharmProjects\sofrendo\exercios\Mundo 3\13-Módulos e Pacotes\ex111" />
+      <recent name="C:\Users\T-Gamer\PycharmProjects\sofrendo\exercios\Mundo 3\13-Módulos e Pacotes\ex110" />
+      <recent name="C:\Users\T-Gamer\PycharmProjects\sofrendo\exercios\Mundo 3\13-Módulos e Pacotes\ex109" />
+      <recent name="C:\Users\T-Gamer\PycharmProjects\sofrendo\exercios\Mundo 3\13-Módulos e Pacotes\ex108" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\T-Gamer\PycharmProjects\sofrendo\aulas" />
+      <recent name="C:\Users\T-Gamer\PycharmProjects\sofrendo\ex115\lib\interface" />
+      <recent name="C:\Users\T-Gamer\PycharmProjects\sofrendo" />
+      <recent name="C:\Users\T-Gamer\PycharmProjects\sofrendo\exercios\Mundo 3" />
+      <recent name="C:\Users\T-Gamer\PycharmProjects\sofrendo\exercios\Mundo 3\13-Módulos e Pacotes\ex107" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sistema">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sofrendo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercios/Mundo 3/14-Tratamento de Erros e Exceções/ex115/modulo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercios/Mundo 3/14-Tratamento de Erros e Exceções/ex115/modulo/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aula11(color)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sofrendo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/Mundo 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/Mundo 1/aula11(color).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex113" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sofrendo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercios/Mundo 3/14-Tratamento de Erros e Exceções" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercios/Mundo 3/14-Tratamento de Erros e Exceções/ex113.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex114" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sofrendo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercios/Mundo 3/14-Tratamento de Erros e Exceções" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercios/Mundo 3/14-Tratamento de Erros e Exceções/ex114.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sistema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sofrendo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex115" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex115/sistema.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sistema" />
+        <item itemvalue="Python.aula11(color)" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.ex114" />
+        <item itemvalue="Python.ex113" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="4" Folder0="C:\Users\T-Gamer\Desktop\coisas\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="C:\Users\T-Gamer\Desktop\coisas\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="C:\Users\T-Gamer\Desktop\coisas\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="C:\Users\T-Gamer\Desktop\coisas\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="C:\Users\T-Gamer\Desktop\coisas\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" CustomDictionary1="C:\Users\T-Gamer\Desktop\coisas\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms.dic" CustomDictionary2="C:\Users\T-Gamer\Desktop\coisas\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="C:\Users\T-Gamer\Desktop\coisas\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_without-accents.dic" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9fb7db8-fce9-4268-8ca5-8101a86e2b83" name="Default Changelist" comment="" />
+      <created>1588967166719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588967166719</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" width="1092" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605305207056">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="174" width="1092" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605305207056" />
+    <state x="855" y="347" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603320962028">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="855" y="344" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600468167240" />
+    <state x="855" y="347" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1603320962028" />
+    <state x="714" y="390" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1600659320091">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="390" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600659320091" />
+    <state x="718" y="389" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1597764994791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="389" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1597764994791" />
+    <state x="739" y="277" key="FileChooserDialogImpl" timestamp="1603206169993">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600963698368" />
+    <state x="739" y="277" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1603206169993" />
+    <state width="1881" height="321" key="GridCell.Tab.0.bottom" timestamp="1605308763862">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601590877672" />
+    <state width="1881" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605308763862" />
+    <state width="1881" height="321" key="GridCell.Tab.0.center" timestamp="1605308763862">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="319" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601590877672" />
+    <state width="1881" height="321" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605308763862" />
+    <state width="1881" height="321" key="GridCell.Tab.0.left" timestamp="1605308763862">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="319" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601590877672" />
+    <state width="1881" height="321" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605308763862" />
+    <state width="1881" height="321" key="GridCell.Tab.0.right" timestamp="1605308763862">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="319" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601590877672" />
+    <state width="1881" height="321" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605308763862" />
+    <state width="1881" height="361" key="GridCell.Tab.1.bottom" timestamp="1605308763836">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="365" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600817336658" />
+    <state width="1881" height="361" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605308763836" />
+    <state width="1881" height="361" key="GridCell.Tab.1.center" timestamp="1605308763836">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="365" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600817336658" />
+    <state width="1881" height="361" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605308763836" />
+    <state width="1881" height="361" key="GridCell.Tab.1.left" timestamp="1605308763836">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="365" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600817336658" />
+    <state width="1881" height="361" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605308763836" />
+    <state width="1881" height="361" key="GridCell.Tab.1.right" timestamp="1605308763836">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1921" height="365" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600817336658" />
+    <state width="1881" height="361" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605308763836" />
+    <state x="310" y="92" width="1350" height="938" key="SettingsEditor" timestamp="1602106625982">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="310" y="91" width="1350" height="938" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601056108387" />
+    <state x="310" y="92" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1602106625982" />
+    <state width="498" height="444" key="SwitcherDM" timestamp="1603206087848">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="498" height="444" key="SwitcherDM/0.0.1920.1050@0.0.1920.1050" timestamp="1603206087848" />
+    <state x="465" y="572" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog" timestamp="1600477264417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="465" y="572" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600477264417" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1600108491983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600108491983" />
+    <state x="275" y="253" width="975" height="775" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1600963699422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="275" y="253" width="975" height="775" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600963699422" />
+    <state x="453" y="288" width="672" height="685" key="search.everywhere.popup" timestamp="1603206139614">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="453" y="285" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600478648796" />
+    <state x="453" y="288" width="672" height="685" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1603206139614" />
+  </component>
+</project>

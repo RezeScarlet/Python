@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: um
+Version: 1.5.3
+Summary: 
+Home-page: https://github.com/umatbro/u-utils
+License: MIT
+Author: umatbro
+Author-email: umatbroo@gmail.com
+Requires-Python: >=3.7,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Requires-Dist: numpy (>=1.17,<2.0)
+Requires-Dist: pandas (>=0.25.3,<0.26.0)
+Project-URL: Repository, https://github.com/umatbro/u-utils
+Description-Content-Type: text/x-rst
+
+um utils
+=========
+
+Project contains utility functions
+
+
+Installation
+------------
+
+To install via `pip` run command
+
+::
+
+    $ pip install um
+
+
+Contents
+--------
+
+Contents of the package
+
+* utility functions
+* visual package with color utilities
+* collections module
